@@ -1,0 +1,29 @@
+Between 2008-2023, 49% of fatal accidents involving commercial jet worldwide occurred during final approach and landing, and this statistic has not changed in several decades.
+The main objective of the project is to prevent these fatal accidents involving commercial flights worldwide occurred during final approach and landing, as this statistic has not changed in several decades. Here our aim to prevent those accidents and to have a  system predict the flight hard landing or not hard landing using ML algorithms with high efficient results.
+
+
+# Libraries to be installed:
+Pip install numpy==1.18.1
+Pip install matplotlib==3.1.3
+Pip install pandas==0.25.3
+Pip install seaborn
+Pip install opencv-python==4.2.0.32
+Pip install keras==2.3.1
+Pip install tensorflow==1.14.0
+Pip install h5py==2.10.0
+Pip install pillow==7.0.0
+Pip install sklearn-genetic==0.2
+Pip install sklearn
+Pip install scikit-learn==0.22.2.post1
+Pip install pyswarms==1.1.0
+Pip install nltk
+Pip install Django==2.1.7
+Pip install pymysql==0.9.3
+Pip install protobuf==3.16.0
+Pip install tweepy
+Pip install pytesseract
+Pip install imutils
+Pip install cmake
+Pip install dlib
+
+
