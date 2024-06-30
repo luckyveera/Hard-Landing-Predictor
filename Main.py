@@ -22,8 +22,8 @@ import os
 from sklearn.metrics import confusion_matrix
 
 main = Tk()
-main.title("E-Pilots: A System to Predict Hard Landing During the Approach Phase of Commercial Flights")
-#filename = PhotoImage(file="C:\Users\illan\OneDrive\Desktop\28.E-Pilots A System to Predict Hard Landing During the Approach Phase of Commercial Flights\im1.jpg")
+main.title("Approach Phase Hard Landing Predictor ")
+#filename = PhotoImage(file="C:\Users\illan\OneDrive\Desktop\Approach Phase Hard Landing Predictor\im1.jpg")
 #bg_label = Label(top.image=filename)
 main.geometry("1300x1200")
 #main.mainloop()
